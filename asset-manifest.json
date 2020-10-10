@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goodnews/static/css/main.63f2c9e3.chunk.css",
+    "main.js": "/goodnews/static/js/main.1a429b0d.chunk.js",
+    "main.js.map": "/goodnews/static/js/main.1a429b0d.chunk.js.map",
+    "runtime-main.js": "/goodnews/static/js/runtime-main.f7a9d8f8.js",
+    "runtime-main.js.map": "/goodnews/static/js/runtime-main.f7a9d8f8.js.map",
+    "static/js/2.79691164.chunk.js": "/goodnews/static/js/2.79691164.chunk.js",
+    "static/js/2.79691164.chunk.js.map": "/goodnews/static/js/2.79691164.chunk.js.map",
+    "index.html": "/goodnews/index.html",
+    "precache-manifest.0eae459b68c8d5390fb5ed81bad1ad32.js": "/goodnews/precache-manifest.0eae459b68c8d5390fb5ed81bad1ad32.js",
+    "service-worker.js": "/goodnews/service-worker.js",
+    "static/css/main.63f2c9e3.chunk.css.map": "/goodnews/static/css/main.63f2c9e3.chunk.css.map",
+    "static/js/2.79691164.chunk.js.LICENSE.txt": "/goodnews/static/js/2.79691164.chunk.js.LICENSE.txt",
+    "static/media/nav_styles.css": "/goodnews/static/media/bauhaus-93-regular.3066b111.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a9d8f8.js",
+    "static/js/2.79691164.chunk.js",
+    "static/css/main.63f2c9e3.chunk.css",
+    "static/js/main.1a429b0d.chunk.js"
+  ]
+}
